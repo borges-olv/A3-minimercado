@@ -1,15 +1,15 @@
-#Entrega A3
+# Entrega A3
 
 
-##Mini Mercado
+## Mini Mercado
 
-###Participantes
+### Participantes
 8261104136 - Matheus Pacheco
 8261114338 - Gustavo Abade
 0261103016 - Matheus Borges
 8261114204 - Danilo de Godoy
 
-#####Instrução
+##### Instrução
 *menu principal*:
 text
 1. Produtos
